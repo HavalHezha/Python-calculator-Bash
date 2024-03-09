@@ -1,17 +1,17 @@
 سڵاو بەخێربێن بۆ یەکەم پڕۆژەم بە زمانی پایتۆن کە حاسیبەیەکی سادەیە 
 چۆنیەتی دامەزراندن
 
-1- sudo apt update
+1- <sudo apt update>
 
-2- sudo apt upgrade
+2- <sudo apt upgrade>
 
-3- sudo apt install git
+3- <sudo apt install git>
 
-4- sudo apt install bash 
+4- <sudo apt install bash>
 
-4- git clone https://github.com/HavalHezha/Python-calculator-Bash.git
+4- <git clone https://github.com/HavalHezha/Python-calculator-Bash.git>
 
-5- cd Python-calculator-Bash
+5- <cd Python-calculator-Bash>
 
-6- bash install.sh
+6- <bash install.sh>
 
